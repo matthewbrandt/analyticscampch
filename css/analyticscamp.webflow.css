@@ -2976,6 +2976,7 @@ figure {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  height: 60px;
   -webkit-box-align: center;
   -webkit-align-items: center;
   -ms-flex-align: center;
