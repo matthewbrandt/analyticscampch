@@ -4810,6 +4810,7 @@ figure {
   display: -ms-flexbox;
   display: flex;
   margin-bottom: 0px;
+  width: max-content;
 }
 
 .btn-block {
@@ -5361,7 +5362,7 @@ figure {
 
 .event-subtitle {
   color: #fff;
-  font-size: 14px;
+  font-size: 36px;
   line-height: 100%;
   font-weight: 600;
   text-transform: uppercase;
@@ -7323,6 +7324,7 @@ figure {
     -webkit-align-items: flex-start;
     -ms-flex-align: start;
     align-items: flex-start;
+    width: max-content;
   }
 
   .btn-block {
@@ -7577,7 +7579,7 @@ figure {
   }
 
   .event-body {
-    display: none;
+    margin-top: 20px;
   }
 
   .grey-line-speaker {
