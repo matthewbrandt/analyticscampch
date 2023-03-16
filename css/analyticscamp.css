@@ -3592,7 +3592,8 @@ figure {
 }
 
 .contact-section {
-  padding-top: 120px;
+  padding-top: 80px;
+  padding-bottom: 120px;
 }
 
 .version-section {
@@ -3604,7 +3605,6 @@ figure {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  margin-bottom: 120px;
   grid-column-gap: 150px;
 }
 
@@ -3695,12 +3695,11 @@ figure {
 
 .error-message {
   margin-top: 20px;
-  background-color: #ffd0d0;
+  background-color: #ba7171;
   text-align: center;
 }
 
 .faq-section {
-  margin-top: 120px;
   padding-top: 80px;
   padding-bottom: 80px;
   background-color: #f6f3fa;
@@ -6149,10 +6148,6 @@ figure {
     padding-bottom: 100px;
   }
 
-  .contact-upper {
-    margin-bottom: 100px;
-  }
-
   .contact-info {
     max-width: 21%;
   }
@@ -6166,7 +6161,6 @@ figure {
   }
 
   .faq-section {
-    margin-top: 0px;
     padding-top: 60px;
     padding-bottom: 60px;
   }
@@ -6947,10 +6941,6 @@ figure {
     padding-bottom: 60px;
   }
 
-  .contact-upper {
-    margin-bottom: 60px;
-  }
-
   .faq-section {
     padding-top: 50px;
     padding-bottom: 50px;
@@ -7687,7 +7677,6 @@ figure {
   }
 
   .contact-upper {
-    margin-bottom: 80px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
