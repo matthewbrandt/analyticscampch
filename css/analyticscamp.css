@@ -5593,6 +5593,7 @@ figure {
 .features-head {
   display: -ms-grid;
   display: grid;
+  justify-items: center;
   padding-bottom: 8px;
   grid-auto-columns: 1fr;
   grid-column-gap: 20px;
@@ -5609,7 +5610,7 @@ figure {
   display: grid;
   padding-top: 20px;
   padding-bottom: 20px;
-  justify-items: start;
+  justify-items: center;
   -webkit-box-align: center;
   -webkit-align-items: center;
   -ms-flex-align: center;
@@ -5622,6 +5623,10 @@ figure {
   -ms-grid-rows: auto;
   grid-template-rows: auto;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.features-data :first-child {
+  justify-self: flex-start;
 }
 
 .feature-new {
@@ -5647,6 +5652,10 @@ figure {
 .feature-title {
   margin-bottom: 0px;
   text-transform: uppercase;
+}
+
+.feature-left {
+  justify-self: start;
 }
 
 .checkout-title {
