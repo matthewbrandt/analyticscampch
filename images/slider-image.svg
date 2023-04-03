@@ -1,7 +1,7 @@
 <svg width="45" height="45" viewBox="0 0 45 45" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <circle cx="22.5" cy="22.5" r="22.5" fill="#E7BF9F"/>
 <mask id="mask0_3658_2783" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="45" height="45">
-<circle cx="22.5" cy="22.5" r="22.5" fill="#773CBE"/>
+<circle cx="22.5" cy="22.5" r="22.5" fill="#268bcc"/>
 </mask>
 <g mask="url(#mask0_3658_2783)">
 <rect width="63.9579" height="49" transform="matrix(-1 0 0 1 52.9579 0)" fill="url(#pattern0)"/>

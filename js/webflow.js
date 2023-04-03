@@ -42147,7 +42147,7 @@ Webflow.define('links', module.exports = function ($, _) {
   var inApp = Webflow.env();
   var location = window.location;
   var tempLink = document.createElement('a');
-  var linkCurrent = 'w--current';
+  var linkCurrent = '';
   var indexPage = /index\.(html|php)$/;
   var dirList = /\/$/;
   var anchors;
