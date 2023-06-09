@@ -2641,6 +2641,7 @@ p {
 
 a {
   text-decoration: underline;
+  color: #268BCC;
 }
 
 ul {
@@ -3427,7 +3428,7 @@ figure {
 }
 
 .brand {
-  width: 110px;
+  width: 210px;
 }
 
 .log-section {
@@ -3531,6 +3532,12 @@ figure {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+}
+
+.hero-inner a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #FCE762;
 }
 
 .hero-inner.align-top {
@@ -7668,7 +7675,7 @@ figure {
   }
 
   .brand {
-    width: 100px;
+    width: 140px;
     padding-left: 0px;
   }
 
