@@ -2641,6 +2641,7 @@ p {
 
 a {
   text-decoration: underline;
+  color: #268BCC;
 }
 
 ul {
@@ -3531,6 +3532,12 @@ figure {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+}
+
+.hero-inner a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #FCE762;
 }
 
 .hero-inner.align-top {
