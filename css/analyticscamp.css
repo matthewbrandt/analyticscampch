@@ -4911,6 +4911,15 @@ figure {
   grid-template-rows: auto;
 }
 
+.sponsor-logo {
+  max-width: 400px;
+}
+
+.sponsor-logo-small {
+  max-width: 120px;
+}
+
+
 .inner-logo {
   display: -webkit-box;
   display: -webkit-flex;
@@ -6204,6 +6213,10 @@ figure {
   .gallery-inner {
     grid-column-gap: 20px;
     grid-row-gap: 20px;
+  }
+
+  .gallery-inner-2col {
+
   }
 
   .cta-section {
@@ -7722,7 +7735,7 @@ figure {
     padding-top: 40px;
   }
 
-  .gallery-inner {
+  /* .gallery-inner {
     display: -ms-grid;
     display: grid;
     grid-auto-columns: 1fr;
@@ -7732,7 +7745,7 @@ figure {
     grid-template-columns: 1fr 1fr;
     -ms-grid-rows: auto auto;
     grid-template-rows: auto auto;
-  }
+  } */
 
   .faq-item {
     margin-bottom: 10px;
